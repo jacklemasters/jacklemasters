@@ -1,4 +1,5 @@
 # Hello World, I'm Jack! 👋
+This is no longer my primary GitHub account. Please reference my new account <a href="https://github.com/tf-jlemasters" target="_blank" rel="noreferrer"> here! </a>
 
 ## 🚀 About Me
 I am a jr. software engineer who is currently working in Fort Collins, Colorado. I graduated from University of Denver's Full Stack Development Bootcamp, and spent four years studying history at University of Northern Colorado.
