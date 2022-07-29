@@ -18,5 +18,5 @@ I am a jr. software engineer who is currently working in Fort Collins, Colorado.
 I'm currently working on improving my knowledge with Ruby on Rails, Python, and Shell Scripting!
 
 <p align="center">
-  <img width="60%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=tf-jlemasters&count_private=true&theme=github_dark&show_icons=true" />
+  <img width="60%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=jacklemasters&count_private=true&theme=github_dark&show_icons=true" />
   </p>
